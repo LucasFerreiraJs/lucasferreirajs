@@ -1,6 +1,8 @@
 # Console.WriteLine("Olá! 👋");
 
-Por aqui, vocês vão encontrar coisas simples que resolvo fazer só para manter uma rotina de programação: exercícios, experimentos, projetos pessoais e atividades de bootcamps e cursos que acompanho.
+No dia a dia, tenho dedicado boa parte do meu tempo ao desenvolvimento de soluções AI-first, mais próximas da área de produto, explorando agentes, automações e aplicações de inteligência artificial, principalmente em repositórios privados.
+
+Por aqui, vocês vão encontrar coisas mais simples que resolvo fazer só para manter uma rotina de programação: exercícios, experimentos, projetos pessoais e atividades de bootcamps e cursos que acompanho.
 
 A ideia é continuar praticando, revisitando conceitos e explorando tecnologias com as quais já trabalho ou que tenho interesse em aprender.
 
